@@ -1,0 +1,77 @@
+/*
+ * style for research.html
+*/
+
+.content{
+	margin-bottom:20px;
+}
+
+.research_title{
+        width:98%;
+        font-family: 'Ropa Sans',"Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+        font-weight: normal;
+        color: #753F00;
+        text-rendering: optimizeLegibility;
+        line-height: 1.1;
+        font-size: 48px;
+        padding: 8px 0 8px 20px;
+        background-color: #d9e2db;
+}
+
+.title_tech{
+	font-size:28px;
+	font-family: 'Ropa Sans',"Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+	font-weight: normal;
+    	color: #000;
+    	text-rendering: optimizeLegibility;
+    	line-height: 1.1;
+}
+
+.content_tech{
+	margin-top:20px;
+	font-family: 'Source Sans Pro',"Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+    	font-size: 18px;
+    	font-weight: normal;
+    	line-height: 20px;
+}
+
+.content ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+.content li{
+	margin:0;
+	padding: 20px 8px 8px 8px;
+}
+
+.content ul li img{
+	margin-top:20px;
+	width:680px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	align:center;
+}
+
+.subinfo_tech{
+	margin-top:15px;
+	text-align:center;
+	font-family: 'Source Sans Pro',HelveticaNeue,Helvetica-Neue,Helvetica,Arial,sans-serif;
+	color: #497ba4;
+    	font-size: 18px;
+    	line-height: 22px;
+	font-weight:600;
+}
+
+.ref_tech{
+	margin-top:15px;
+	margin-bottom:10px;
+	text-align:center;
+	font-family: 'Source Sans Pro',HelveticaNeue,Helvetica-Neue,Helvetica,Arial,sans-serif;
+	color:#753F00;
+	font-size:18px;
+	line-height:22px;
+	font-weight:600;
+}

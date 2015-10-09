@@ -1,0 +1,44 @@
+/*
+ * style for publications.html
+*/
+
+.title_jour_public{
+        width:98%;
+        font-family: 'Ropa Sans',"Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+        font-weight: normal;
+        color: #753F00;
+        text-rendering: optimizeLegibility;
+        line-height: 1.1;
+        font-size: 48px;
+        padding: 8px 0 8px 20px;
+        background-color: #d9e2db;
+}
+
+.content_jour_public ol{
+        margin-top:2px;
+	padding:0 0 6px 12px;
+	list-style-type: decimal;
+}
+
+.content_jour_public h3{
+        margin:12px 0 5px 0;
+        color:#000;
+        font-size:26px;a
+        font-weight:bold;
+        font-family:'Ropa Sans',"Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+}
+
+.content_jour_public li{
+        margin:8px 0 8px 40px;;
+        color:#333;
+        font-family: 'Source Sans Pro',"Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+        font-size: 17px;
+        font-weight: normal;
+        line-height: 20px;
+}
+
+.content_jour_public li a{
+        color: #497ba4;
+        text-decoration:none;
+        font-weight:400;
+}

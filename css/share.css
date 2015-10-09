@@ -1,0 +1,107 @@
+/*
+ * Layout of blocks shared by all the pages
+*/
+
+body{
+	max-width: 1080px;
+	margin: 0 auto !important;
+	float: none !important;	
+	-webkit-font-smoothing: antialiased;
+}
+
+.head-top{
+	width:1080px;
+	padding-top:35px;
+	padding-bottom:23px;
+}
+
+.head-top .lu_logo{
+	display:inline;
+	margin-left:7.5px;
+}
+
+.head-top .welcome{
+	display:inline;
+	vertical-align:top;
+	font-size:30px;
+	font-weight:bold;
+	margin-left:200px;
+	padding-bottom:20px;
+	color:#502d0e;
+	font-family: 'Oleo Script', cursive;
+}
+
+.head-top .lab_info{
+	display:inline;
+	margin-left:220px;
+	margin-bottom:19.7px;
+	color: #666;
+}
+
+.head-bottom{
+	margin-bottom:15px;
+}
+
+.head-bottom ul{
+	margin:0px;
+	padding:0px;
+}
+
+.head-bottom ul li{
+	display:inline-block;
+	text-align: center;
+	width:12.4%;
+	height:20px;
+	padding:3px 0px;
+	margin-right:-4px;
+	border-right: 1px solid #fff;
+	background-color:#502d0e;
+}
+
+.head-bottom ul li:hover{
+	color:#502d0e;
+	background-color:#ecf4f1;
+}
+
+.head-bottom ul li:hover a{
+	color:#502d0e;
+}
+
+.head-bottom a{
+	color:#ffffff;
+	font-size:14px;
+	font-family: Helvetica,Arial,sans-serif;
+	text-decoration:none;
+}
+
+.active_nav{                                                                              
+        background-color:#fff !important;
+}
+.active_nav a{                                                                            
+        color:#502d0e !important;                                                         
+} 
+
+.footer{
+	padding: 14px 0px 14px 40px;
+	background-color:#502d0e;
+	margin-bottom:15px;
+}
+
+.footer ul{
+	display:inline-block;
+	margin:0px;
+	padding:0px;
+	list-style-type: none;
+}
+
+.footer ul li{
+	margin-top:2px;
+	color:#fff;
+	font-size:12px;
+	font-family: 'Source Sans Pro',"Helvetica Neue",Helvetica,Helvetica,Arial,sans-serif;
+}
+
+.lu_footer{
+	display:inline;
+	margin-left:430px;
+}

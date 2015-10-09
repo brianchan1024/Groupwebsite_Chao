@@ -1,0 +1,55 @@
+/*
+ * style for gallery
+*/
+
+.title_gallery{
+        width:98%;
+        font-family: 'Ropa Sans',"Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+        font-weight: normal;
+        color: #753F00;
+        text-rendering: optimizeLegibility;
+        line-height: 1.1;
+        font-size: 48px;
+        padding: 8px 0 8px 20px;
+        background: #ecf4f1;
+}
+
+.content_gallery{
+}
+
+.content_gallery ul{
+	list-style-type:none;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+}
+
+.content_gallery li{
+	display:inline-block;
+	margin:10px 5px 10px 5px;
+	padding-bottom:10px;
+	text-align:center;
+}
+
+.bg_color_odd{
+	background-color: #BDDEE1;
+}
+
+.bg_color_even{
+	background-color: #f3c982;
+}
+
+.item_gallery{
+	width:520px;
+	text-align:center;
+}
+
+.item_gallery img{
+	width:520px;
+	height:380px;
+}
+
+.item_gallery p{
+	display:block;
+	margin:5px 0 0 0px;
+	font-family: 'Ropa Sans',"Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+}
